@@ -27,7 +27,7 @@ except ImportError:
     HAS_OPENPYXL = False
 
 # ── 版本信息 ──────────────────────────────────────────────────────
-APP_VERSION = "1.0.0"
+APP_VERSION = "1.0.1"
 VERSION_URL = "https://raw.githubusercontent.com/jixiantech/order-link-release/main/version.txt"
 DOWNLOAD_URL = "https://github.com/jixiantech/order-link-release/releases/latest/download/极限link.zip"
 
