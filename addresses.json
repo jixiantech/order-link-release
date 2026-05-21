@@ -1,0 +1,32 @@
+[
+  {
+    "name": "仓库1",
+    "firstName": "Jessica",
+    "lastName": "Wang",
+    "street": "6600 NE 78TH CT",
+    "street2": "SUITE C5",
+    "city": "Portland",
+    "state": "OR",
+    "postalCode": "97218"
+  },
+  {
+    "name": "仓库2",
+    "firstName": "Gary",
+    "lastName": "Weng",
+    "street": "19 Eldridge St",
+    "street2": "7",
+    "city": "New Yotk",
+    "state": "NY",
+    "postalCode": "10002"
+  },
+  {
+    "name": "cku3",
+    "firstName": "Qibiao",
+    "lastName": "Weng",
+    "street": "32 Linder Ct",
+    "street2": "",
+    "city": "Middletown",
+    "state": "NJ",
+    "postalCode": "07748"
+  }
+]
